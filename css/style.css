@@ -132,7 +132,7 @@ button {
 @media only screen and (min-width: 700px) and (max-width: 1200px) {
   main {
     min-height: 992px;
-    padding-top: 75px;
+    padding-top: 80px;
   }
   article {
     flex-direction: column;
@@ -164,7 +164,6 @@ button {
     width: 100%;
     min-height: 100vh;
     margin: 10px;
-    padding-top: 10px;
   }
   article {
     flex-direction: column;
